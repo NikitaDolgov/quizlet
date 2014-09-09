@@ -1,2 +1,3 @@
 quizlet
 =======
+put arab.txt (UT-8) and rus.txt (UT-8) in C:\\...
